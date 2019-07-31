@@ -1,7 +1,9 @@
-
 @extends('layout')
 
 @section('content')
+
+</header>
+	<!-- /HEADER -->
 
 	<!-- SECTION -->
 	<div class="section">

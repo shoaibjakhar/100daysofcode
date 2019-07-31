@@ -42,7 +42,7 @@
 
 					<!-- logo -->
 					<div class="nav-logo">
-						<a href="index.html" class="logo"><img src="./img/logo.png" alt=""></a>
+						<a href="/" class="logo"><img src="./img/logo.png" alt=""></a>
 					</div>
 					<!-- /logo -->
 
@@ -70,16 +70,16 @@
 					<!-- nav -->
 					<ul class="nav-menu">
 						<li class="has-dropdown">
-							<a href="index.html">Home</a>
+							<a href="/">Home</a>
 							<div class="dropdown">
 								<div class="dropdown-body">
 									<ul class="dropdown-list">
-										<li><a href="category.html">Category page</a></li>
-										<li><a href="blog-post.html">Post page</a></li>
-										<li><a href="author.html">Author page</a></li>
-										<li><a href="about.html">About Us</a></li>
-										<li><a href="contact.html">Contacts</a></li>
-										<li><a href="blank.html">Regular</a></li>
+										<li><a href="/category">Category page</a></li>
+										<li><a href="/blog_post">Post page</a></li>
+										<li><a href="/author">Author page</a></li>
+										<li><a href="/about">About Us</a></li>
+										<li><a href="/contact">Contacts</a></li>
+										<li><a href="/blank">Regular</a></li>
 									</ul>
 								</div>
 							</div>
@@ -104,14 +104,14 @@
 													<!-- post -->
 													<div class="col-md-4">
 														<div class="post post-sm">
-															<a class="post-img" href="blog-post.html"><img src="./img/post-10.jpg" alt=""></a>
+															<a class="post-img" href="/blog_post"><img src="./img/post-10.jpg" alt=""></a>
 															<div class="post-body">
 																<div class="post-category">
-																	<a href="category.html">Travel</a>
+																	<a href="/category">Travel</a>
 																</div>
-																<h3 class="post-title title-sm"><a href="blog-post.html">Sed ut perspiciatis, unde omnis iste natus error sit</a></h3>
+																<h3 class="post-title title-sm"><a href="/blog_post">Sed ut perspiciatis, unde omnis iste natus error sit</a></h3>
 																<ul class="post-meta">
-																	<li><a href="author.html">John Doe</a></li>
+																	<li><a href="/author">John Doe</a></li>
 																	<li>20 April 2018</li>
 																</ul>
 															</div>
@@ -122,15 +122,15 @@
 													<!-- post -->
 													<div class="col-md-4">
 														<div class="post post-sm">
-															<a class="post-img" href="blog-post.html"><img src="./img/post-13.jpg" alt=""></a>
+															<a class="post-img" href="/blog_post"><img src="./img/post-13.jpg" alt=""></a>
 															<div class="post-body">
 																<div class="post-category">
-																	<a href="category.html">Travel</a>
-																	<a href="category.html">Lifestyle</a>
+																	<a href="/category">Travel</a>
+																	<a href="/category">Lifestyle</a>
 																</div>
-																<h3 class="post-title title-sm"><a href="blog-post.html">Mel ut impetus suscipit tincidunt. Cum id ullum laboramus persequeris.</a></h3>
+																<h3 class="post-title title-sm"><a href="/blog_post">Mel ut impetus suscipit tincidunt. Cum id ullum laboramus persequeris.</a></h3>
 																<ul class="post-meta">
-																	<li><a href="author.html">John Doe</a></li>
+																	<li><a href="/author">John Doe</a></li>
 																	<li>20 April 2018</li>
 																</ul>
 															</div>
@@ -141,14 +141,14 @@
 													<!-- post -->
 													<div class="col-md-4">
 														<div class="post post-sm">
-															<a class="post-img" href="blog-post.html"><img src="./img/post-12.jpg" alt=""></a>
+															<a class="post-img" href="/blog_post"><img src="./img/post-12.jpg" alt=""></a>
 															<div class="post-body">
 																<div class="post-category">
-																	<a href="category.html">Lifestyle</a>
+																	<a href="/category">Lifestyle</a>
 																</div>
-																<h3 class="post-title title-sm"><a href="blog-post.html">Mel ut impetus suscipit tincidunt. Cum id ullum laboramus persequeris.</a></h3>
+																<h3 class="post-title title-sm"><a href="/blog_post">Mel ut impetus suscipit tincidunt. Cum id ullum laboramus persequeris.</a></h3>
 																<ul class="post-meta">
-																	<li><a href="author.html">John Doe</a></li>
+																	<li><a href="/author">John Doe</a></li>
 																	<li>20 April 2018</li>
 																</ul>
 															</div>
@@ -165,14 +165,14 @@
 													<!-- post -->
 													<div class="col-md-4">
 														<div class="post post-sm">
-															<a class="post-img" href="blog-post.html"><img src="./img/post-5.jpg" alt=""></a>
+															<a class="post-img" href="/blog_post"><img src="./img/post-5.jpg" alt=""></a>
 															<div class="post-body">
 																<div class="post-category">
-																	<a href="category.html">Lifestyle</a>
+																	<a href="/category">Lifestyle</a>
 																</div>
-																<h3 class="post-title title-sm"><a href="blog-post.html">Postea senserit id eos, vivendo periculis ei qui</a></h3>
+																<h3 class="post-title title-sm"><a href="/blog_post">Postea senserit id eos, vivendo periculis ei qui</a></h3>
 																<ul class="post-meta">
-																	<li><a href="author.html">John Doe</a></li>
+																	<li><a href="/author">John Doe</a></li>
 																	<li>20 April 2018</li>
 																</ul>
 															</div>
@@ -183,15 +183,15 @@
 													<!-- post -->
 													<div class="col-md-4">
 														<div class="post post-sm">
-															<a class="post-img" href="blog-post.html"><img src="./img/post-8.jpg" alt=""></a>
+															<a class="post-img" href="/blog_post"><img src="./img/post-8.jpg" alt=""></a>
 															<div class="post-body">
 																<div class="post-category">
-																	<a href="category.html">Fashion</a>
-																	<a href="category.html">Lifestyle</a>
+																	<a href="/category">Fashion</a>
+																	<a href="/category">Lifestyle</a>
 																</div>
-																<h3 class="post-title title-sm"><a href="blog-post.html">Sed ut perspiciatis, unde omnis iste natus error sit</a></h3>
+																<h3 class="post-title title-sm"><a href="/blog_post">Sed ut perspiciatis, unde omnis iste natus error sit</a></h3>
 																<ul class="post-meta">
-																	<li><a href="author.html">John Doe</a></li>
+																	<li><a href="/author">John Doe</a></li>
 																	<li>20 April 2018</li>
 																</ul>
 															</div>
@@ -202,14 +202,14 @@
 													<!-- post -->
 													<div class="col-md-4">
 														<div class="post post-sm">
-															<a class="post-img" href="blog-post.html"><img src="./img/post-9.jpg" alt=""></a>
+															<a class="post-img" href="/blog_post"><img src="./img/post-9.jpg" alt=""></a>
 															<div class="post-body">
 																<div class="post-category">
-																	<a href="category.html">Lifestyle</a>
+																	<a href="/category">Lifestyle</a>
 																</div>
-																<h3 class="post-title title-sm"><a href="blog-post.html">Mel ut impetus suscipit tincidunt. Cum id ullum laboramus persequeris.</a></h3>
+																<h3 class="post-title title-sm"><a href="/blog_post">Mel ut impetus suscipit tincidunt. Cum id ullum laboramus persequeris.</a></h3>
 																<ul class="post-meta">
-																	<li><a href="author.html">John Doe</a></li>
+																	<li><a href="/author">John Doe</a></li>
 																	<li>20 April 2018</li>
 																</ul>
 															</div>
@@ -292,7 +292,7 @@
 			<!-- Aside Nav -->
 			<div id="nav-aside">
 				<ul class="nav-aside-menu">
-					<li><a href="index.html">Home</a></li>
+					<li><a href="/">Home</a></li>
 					<li class="has-dropdown"><a>Categories</a>
 						<ul class="dropdown">
 							<li><a href="#">Lifestyle</a></li>
@@ -302,8 +302,8 @@
 							<li><a href="#">Health</a></li>
 						</ul>
 					</li>
-					<li><a href="about.html">About Us</a></li>
-					<li><a href="contact.html">Contacts</a></li>
+					<li><a href="/about">About Us</a></li>
+					<li><a href="/contact">Contacts</a></li>
 					<li><a href="#">Advertise</a></li>
 				</ul>
 				<button class="nav-close nav-aside-close"><span></span></button>
@@ -311,9 +311,7 @@
 			<!-- /Aside Nav -->
 		</div>
 		<!-- /NAV -->
-	</header>
-	<!-- /HEADER -->
-
+	<!-- header closing tag in section files because in some cases cann't include, ref about pae-->
 
 	@yield('content')
 
@@ -328,7 +326,7 @@
 				<div class="col-md-3">
 					<div class="footer-widget">
 						<div class="footer-logo">
-							<a href="index.html" class="logo"><img src="./img/logo-alt.png" alt=""></a>
+							<a href="/" class="logo"><img src="./img/logo-alt.png" alt=""></a>
 						</div>
 						<p>Nec feugiat nisl pretium fusce id velit ut tortor pretium. Nisl purus in mollis nunc sed. Nunc non blandit massa enim nec.</p>
 						<ul class="contact-social">
@@ -392,9 +390,9 @@
 			<div class="footer-bottom row">
 				<div class="col-md-6 col-md-push-6">
 					<ul class="footer-nav">
-						<li><a href="index.html">Home</a></li>
-						<li><a href="about.html">About Us</a></li>
-						<li><a href="contact.html">Contacts</a></li>
+						<li><a href="/">Home</a></li>
+						<li><a href="/about">About Us</a></li>
+						<li><a href="/contact">Contacts</a></li>
 						<li><a href="#">Advertise</a></li>
 						<li><a href="#">Privacy</a></li>
 					</ul>
