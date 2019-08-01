@@ -20,26 +20,4 @@ Route::get('/blog_post', 'Home@blog_post');
 Route::get('/category', 'Home@category');
 Route::get('/contact', 'Home@contact');
 
-Route::get('/about', function(){
-	return view('about');
-});
-
-Route::get('/author', function(){
-	return view('author');
-});
-
-Route::get('/blank', function(){
-	return view('blank');
-});
-
-Route::get('/blog_post', function(){
-	return view('blog-post');
-});
-
-Route::get('/category', function(){
-	return view('category');
-});
-
-Route::get('/contact', function(){
-	return view('contact');
-});
+Route::get('/testscripts', 'TestScripts@test_posts');
